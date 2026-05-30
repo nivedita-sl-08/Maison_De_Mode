@@ -5,6 +5,7 @@ The Maison de Mode Inventory and Billing Management System developed in Python p
 #Tech Stack
 
 **Language**: Python
+
 **Libraries used:** tkinter, csv, reportlab, datetime, os, ttk, messagebox
 
 #How to Run It
@@ -18,5 +19,6 @@ The Maison de Mode Inventory and Billing Management System developed in Python p
 #Authors:
 
 Nivedita Lakshmi Swaminathan - Co-Author and Lead Developer (https://github.com/nivedita-sl-08)
+
 Andrea Maria Saji - Co-Author and Lead Developer (https://github.com/AndreaSaji08)
 
